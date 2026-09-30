@@ -10,7 +10,7 @@
 | 9.09.2026 | 2 | Задачи машинного обучения. Пространство признаков.  |[Слайды](./slides/3_stream/ML2-Tasks&Features-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/7702e751dcef51af86356e4bcfc51c4d/?p=YKDqaGvwriLKmszIQ8aQwg) [Запись прошлых лет](https://rutube.ru/video/private/170158ac135f09c00a378c4018668272/?p=qkdf24vNNl8ME-owVjYlCg) |
 | 16.09.2026 | 3 | Метрический подход, проклятие размерности,переобучение, выбор модели |[Слайды](./slides/3_stream/ML3-Metric-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/af48fc9ae96936bab29e2bdc9a2c78df/?r=wd&p=WOXwnKs5SphgiWyxhtiNqA)|
 | 23.09.2026 | 4 | Методы оптимизации для задач машинного обучения |[Слайды](./slides/3_stream/ML4-Opt-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/98c74ee3c08bd7636c0455465ca00f1e/?p=KPzKlKXRmjE_GuEkqmg-sw) |
-| 30.09.2026 | 5 | Линейные модели регрессии, МНК и отбор признаков |||
+| 30.09.2026 | 5 | Линейные модели регрессии, МНК и отбор признаков |[Слайды](./slides/3_stream/ML5-LinReg-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/b6b14c3aae382f2f007bd5660b37d618/?p=uzSnnG9D8N0O8b4uONwr_g)|
 | 7.10.2026 | 6 | Линейные модели регрессии, регуляризация, преобразование пространства признаков |||
 | 14.10.2026 | 7 | Обобщенные линейные модели |||
 | 21.10.2026 | 8 | Задача классификации. Оценка качества моделей. |||
