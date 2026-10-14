@@ -9,10 +9,10 @@
 | 01.09 | 1 | Основные понятия и примеры прикладных задач | [Презентация](./slides/2_stream/msu26-intro.pdf) | [YaDisk](https://disk.360.yandex.ru/i/kTsZMDBzqXV2ZA) [YouTube](https://youtu.be/OCMWNAKqm7I) |
 | 08.09 | 2 | Метрические методы классификации и регрессии | [Презентация](./slides/2_stream/msu26-metric.pdf) | [YaDisk](https://disk.360.yandex.ru/i/cTAs3GFRMbbqTw) [YouTube](https://youtu.be/GfwAddv1nnU) |
 | 15.09 | 3 | Линейные модели регрессии SVD, мультиколлинеарность, регуляризация | [Презентация](./slides/2_stream/msu26-lin-regr.pdf) | [YaDisk](https://disk.360.yandex.ru/i/s09yttt1oABGdA) [YouTube](https://youtu.be/TJKnfBJhdts) |
-| 22.09 | 4 | Линейные модели классификации, стохастический градиент | [Презентация](./slides/2_stream/msu26-lin-sg.pdf) | (TODO) |
-| 29.09 | 5 | Вероятностные модели порождения данных, принцип максимума правдоподобия, логистическая регрессия | [Презентация](./slides/2_stream/msu26-mle.pdf) | (TODO) |
-| 06.10 | 6 | Практические аспекты машинного обучения: препроцессинг данных, критерии качества и выбор моделей, визуализация | [Презентация](./slides/2_stream/msu26-pre-post.pdf) | (TODO) |
-| 13.10 | 7 | Метод опорных векторов | [Презентация](./slides/2_stream/msu26-svm.pdf) ||
+| 22.09 | 4 | Линейные модели классификации, стохастический градиент | [Презентация](./slides/2_stream/msu26-lin-sg.pdf) | [YaDisk](https://disk.360.yandex.ru/i/l7MGoa_1Do3htw) [YouTube](https://youtu.be/E7bUGhtuyRQ) |
+| 29.09 | 5 | Вероятностные модели порождения данных, принцип максимума правдоподобия, логистическая регрессия | [Презентация](./slides/2_stream/msu26-mle.pdf) | [YaDisk](https://disk.360.yandex.ru/i/6p5Yr-TC3oFOVg) [YouTube](https://youtu.be/WbGPRt8WNh0) |
+| 06.10 | 6 | Практические аспекты машинного обучения: препроцессинг данных, критерии качества и выбор моделей, визуализация | [Презентация](./slides/2_stream/msu26-pre-post.pdf) | [YaDisk](https://disk.360.yandex.ru/i/OKTz8LqdirPZYA) [YouTube](https://youtu.be/_ve4ZR0m-UU) |
+| 13.10 | 7 | Метод опорных векторов | [Презентация](./slides/2_stream/msu26-svm.pdf) | [YaDisk](https://disk.360.yandex.ru/i/GfGi4O4CFooqZQ) [YouTube](https://youtu.be/T_pSUvAgr4s) |
 | 20.10 | 8 | Нелинейная регрессия, обобщённые линейные модели, логистическая регрессия |||
 | 27.10 | 9 | Логические методы классификации |||
 | 10.11 | 10 | Линейные ансамбли, бэггинг, случайный лес, бустинг, AdaBoost |||
