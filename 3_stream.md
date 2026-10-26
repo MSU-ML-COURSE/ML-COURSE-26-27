@@ -13,7 +13,7 @@
 | 30.09.2026 | 5 | Линейные модели регрессии, МНК и отбор признаков |[Слайды](./slides/3_stream/ML5-LinReg-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/b6b14c3aae382f2f007bd5660b37d618/?p=uzSnnG9D8N0O8b4uONwr_g)|
 | 7.10.2026 | 6 | Линейные модели регрессии, регуляризация, преобразование пространства признаков |[Слайды](./slides/3_stream/ML6-LinReg-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/b033057c370fe7b7c6919ac7aa6f6f63/?p=oz5ynZZsDZjt7BnnmZ8qKA) |[Запись прошлых лет](https://rutube.ru/video/private/e7866302025489110dbdf0eddbdf64e1/?p=PQtl5CNpzcnyrG7VdBv7xQ) |
 | 14.10.2026 | 7 | Обобщенные линейные модели | [Слайды](./slides/3_stream/ML7-GLM-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/537290ae3165053478304af6f1dfb13b/?p=bWp0F2HawJb7riY0z_tmRw) |
-| 21.10.2026 | 8 | Задача классификации. Оценка качества моделей. || [Слайды](./3_stream/ML8-LinCLass-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/7288d0cc53b2d2bb920d78f9c22916e7/?p=faI0BBm7cOOq_eGO_L-abw) |
+| 21.10.2026 | 8 | Задача классификации. Оценка качества моделей. | [Слайды](./slides/3_stream/ML8-LinCLass-2026.pdf) |[Запись прошлых лет](https://rutube.ru/video/private/7288d0cc53b2d2bb920d78f9c22916e7/?p=faI0BBm7cOOq_eGO_L-abw) |
 | 28.10.2026, 4.11.2026 | 9,10 | Методы опорных векторов. |||
 | 11.11.2026 | 11 | Восстановление плотности распределения |||
 | 18.11.2026, 2.12.2026 | 12 | Байесовская классификация |||
