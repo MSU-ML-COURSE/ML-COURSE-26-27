@@ -14,8 +14,8 @@
 | 06.10 | 6 | Практические аспекты машинного обучения: препроцессинг данных, критерии качества и выбор моделей, визуализация | [Презентация](./slides/2_stream/msu26-pre-post.pdf) | [YaDisk](https://disk.360.yandex.ru/i/OKTz8LqdirPZYA) [YouTube](https://youtu.be/_ve4ZR0m-UU) |
 | 13.10 | 7 | Метод опорных векторов | [Презентация](./slides/2_stream/msu26-svm.pdf) | [YaDisk](https://disk.360.yandex.ru/i/GfGi4O4CFooqZQ) [YouTube](https://youtu.be/T_pSUvAgr4s) |
 | 20.10 | 8 | Нелинейная регрессия, обобщённые линейные модели, логистическая регрессия | [Презентация](./slides/2_stream/msu26-nonlin-regr.pdf) | |
-| 27.10 | 9 | Логические методы классификации | [Презентация](./slides/2_stream/msu26-featuresel.pdf) | |
-| 03.11 | 10 | Логические методы классификации | [Презентация](./slides/2_stream/msu26-logic.pdf) | |
+| 27.10 | 9 | Отбор признаков | [Презентация](./slides/2_stream/msu26-featuresel.pdf) | |
+| 03.11 | 10 | Логические методы классификации | [Презентация](./slides/2_stream/msu26-logic.pdf) | [YaDisk](https://disk.360.yandex.ru/i/C0VMA9PQBnF2Pw) [YouTube](https://youtu.be/zN-Vm9gGOEg) |
 | 10.11 | 11 | Линейные ансамбли, бэггинг, случайный лес, бустинг, AdaBoost | [Презентация](./slides/2_stream/msu26-compos1.pdf) | |
 | 17.11 | 12 | Градиентный бустинг XGBoost, CatBoost, ODT |||
 | 24.11 |    | Коллоквиум |||
